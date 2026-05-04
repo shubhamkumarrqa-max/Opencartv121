@@ -1,0 +1,50 @@
+14:54:26.475 [main] INFO  testCases.TC001_AccountRegistrationTest - here test case is starting---------------------------
+14:54:27.340 [main] INFO  testCases.TC001_AccountRegistrationTest - Cliked on  Account registartion---------------------------
+14:54:27.347 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details ----------------
+14:54:28.233 [main] INFO  testCases.TC001_AccountRegistrationTest - cliked continue button____
+14:54:29.656 [main] INFO  testCases.TC001_AccountRegistrationTest - here test case is completed ---------------------------
+15:23:50.119 [main] INFO  testCases.TC001_AccountRegistrationTest - here test case is starting---------------------------
+15:23:52.191 [main] INFO  testCases.TC001_AccountRegistrationTest - Cliked on  Account registartion---------------------------
+15:23:52.200 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details ----------------
+15:23:53.508 [main] INFO  testCases.TC001_AccountRegistrationTest - cliked continue button____
+15:23:55.896 [main] INFO  testCases.TC001_AccountRegistrationTest - here test case is completed ---------------------------
+15:25:20.245 [main] INFO  testCases.TC001_AccountRegistrationTest - here test case is starting---------------------------
+15:25:21.294 [main] INFO  testCases.TC001_AccountRegistrationTest - Cliked on  Account registartion---------------------------
+15:25:21.298 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details ----------------
+15:25:22.224 [main] INFO  testCases.TC001_AccountRegistrationTest - cliked continue button____
+15:25:24.336 [main] INFO  testCases.TC001_AccountRegistrationTest - here test case is completed ---------------------------
+15:26:25.608 [main] INFO  testCases.TC001_AccountRegistrationTest - here test case is starting---------------------------
+15:26:26.778 [main] INFO  testCases.TC001_AccountRegistrationTest - Cliked on  Account registartion---------------------------
+15:26:26.784 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details ----------------
+15:26:27.678 [main] INFO  testCases.TC001_AccountRegistrationTest - cliked continue button____
+15:26:29.931 [main] INFO  testCases.TC001_AccountRegistrationTest - here test case is completed ---------------------------
+15:36:23.506 [main] INFO  testCases.TC001_AccountRegistrationTest - here test case is starting---------------------------
+15:36:24.263 [main] INFO  testCases.TC001_AccountRegistrationTest - Cliked on  Account registartion---------------------------
+15:36:24.272 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details ----------------
+15:36:25.162 [main] INFO  testCases.TC001_AccountRegistrationTest - cliked continue button____
+15:36:26.845 [main] INFO  testCases.TC001_AccountRegistrationTest - here test case is completed ---------------------------
+15:36:34.498 [main] INFO  testCases.TC001_AccountRegistrationTest - here test case is starting---------------------------
+15:36:36.239 [main] INFO  testCases.TC001_AccountRegistrationTest - Cliked on  Account registartion---------------------------
+15:36:36.240 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details ----------------
+15:36:36.874 [main] INFO  testCases.TC001_AccountRegistrationTest - cliked continue button____
+15:36:39.406 [main] INFO  testCases.TC001_AccountRegistrationTest - here test case is completed ---------------------------
+15:36:43.485 [main] INFO  testCases.TC001_AccountRegistrationTest - here test case is starting---------------------------
+15:36:44.377 [main] INFO  testCases.TC001_AccountRegistrationTest - Cliked on  Account registartion---------------------------
+15:36:44.380 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details ----------------
+15:36:45.099 [main] INFO  testCases.TC001_AccountRegistrationTest - cliked continue button____
+15:36:46.410 [main] INFO  testCases.TC001_AccountRegistrationTest - here test case is completed ---------------------------
+15:42:22.145 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - here test case is starting---------------------------
+15:42:22.224 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - here test case is starting---------------------------
+15:42:23.719 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Cliked on  Account registartion---------------------------
+15:42:23.726 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details ----------------
+15:42:23.828 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Cliked on  Account registartion---------------------------
+15:42:23.829 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details ----------------
+15:42:28.296 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - here test case is starting---------------------------
+15:42:29.280 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - cliked continue button____
+15:42:29.371 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - cliked continue button____
+15:42:30.568 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Cliked on  Account registartion---------------------------
+15:42:30.569 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details ----------------
+15:42:31.193 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - cliked continue button____
+15:42:31.973 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - here test case is completed ---------------------------
+15:42:32.412 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - here test case is completed ---------------------------
+15:42:32.796 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - here test case is completed ---------------------------
