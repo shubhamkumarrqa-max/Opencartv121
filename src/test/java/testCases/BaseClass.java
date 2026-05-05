@@ -11,6 +11,7 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
 
 public class BaseClass {
@@ -18,10 +19,14 @@ public class BaseClass {
 	public WebDriver driver;
 	public Logger logger;
 
+	
 	@BeforeClass
-	@Parameters({"os","browser"})
-	public void setup(String os, String br ) {
-
+	@Parameters({"os", "browser"}) // Dono parameters ke actual naam yahan aayenge
+	public void setup(@Optional("windows") String os, @Optional("chrome") String br) {
+	    
+	    logger = LogManager.getLogger(this.getClass());
+	    
+	    // Aapka baaki ka code...
 		logger = LogManager.getLogger(this.getClass());
 		
 		switch(br.toLowerCase()) {
