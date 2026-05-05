@@ -27,7 +27,7 @@
                 <configuration>
                 <suiteXmlFiles>
                 
-                <suiteXmlFiles >master.xml</suiteXmlFiles>>
+                <suiteXmlFiles >CrossBrowerTesting.xml</suiteXmlFiles>>
                 
                 </suiteXmlFiles>
                
